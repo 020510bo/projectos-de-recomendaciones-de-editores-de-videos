@@ -1,0 +1,89 @@
+.primer_div img{
+    margin-left: 50%;
+}
+.titulo{
+    margin-left: 30%;
+}
+.texto_donde{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.segundo_div img{
+    margin-left: 15%;
+}
+.videocapcut{
+    margin-left: 20%;
+}
+.section_1{
+    border-color: rgb(252, 232, 202);
+    margin: 20px auto;
+    max-width: 600px; 
+    padding: 20px; 
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+}
+body{
+    background-color:antiquewhite;
+}
+.allado_1 img{
+    position:absolute;
+    left: 1%;
+    top: 5%;
+}
+.allado_2{
+    position:absolute;
+    left:80%;
+    top:75%;
+}
+.allado_3{
+    position:absolute;
+    top:110%;
+    left:5%
+}
+.allado_4{
+    position:absolute;
+    left:30%;
+    top:755%;
+}
+.allado_5{
+    position:absolute;
+    left:5%;
+    top:175%;
+}
+.allado_6{
+    position:absolute;
+    left:80%;
+    top:250%;
+}
+.allado_7{
+    position:absolute;
+    left:80%;
+    top:340%;
+}
+.allado_8{
+    position:absolute;
+    left:5%;
+    top:400%;
+}
+.allado_9{
+    position:absolute;
+    left:5%;
+    top:450%;
+}
+.allado_10{
+    position:absolute;
+    left:80%;
+    top:540%;
+}
+.allado_11{
+    position:absolute;
+    left:5%;
+    top:650%;
+}
+.titulo_2{
+    position:absolute;
+    left:40%;
+    top:-5%;
+}
+
